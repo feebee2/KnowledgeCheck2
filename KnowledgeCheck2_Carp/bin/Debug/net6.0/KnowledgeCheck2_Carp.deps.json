@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KnowledgeCheck2_Carp/1.0.0": {
+        "runtime": {
+          "KnowledgeCheck2_Carp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KnowledgeCheck2_Carp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

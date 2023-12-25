@@ -1,0 +1,14 @@
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\bin\Debug\net6.0\KnowledgeCheck2_Carp.exe
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\bin\Debug\net6.0\KnowledgeCheck2_Carp.deps.json
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\bin\Debug\net6.0\KnowledgeCheck2_Carp.runtimeconfig.json
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\bin\Debug\net6.0\KnowledgeCheck2_Carp.dll
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\bin\Debug\net6.0\KnowledgeCheck2_Carp.pdb
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.GeneratedMSBuildEditorConfig.editorconfig
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.AssemblyInfoInputs.cache
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.AssemblyInfo.cs
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.csproj.CoreCompileInputs.cache
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.dll
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\refint\KnowledgeCheck2_Carp.dll
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.pdb
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\KnowledgeCheck2_Carp.genruntimeconfig.cache
+P:\programming\projects\KnowledgeCheck2\KnowledgeCheck2_Carp\obj\Debug\net6.0\ref\KnowledgeCheck2_Carp.dll
